@@ -8,7 +8,7 @@ module.exports = function(grunt) {
             options: {
                 build_dir: './builds',
                 mac: false,
-                win: false,
+                win: true,
                 linux32: true,
                 linux64: false
             },
