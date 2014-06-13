@@ -1,0 +1,6 @@
+{
+    "name": "foundation-app",
+    "dependencies": {
+        "foundation": "~5.2.3"
+    }
+}

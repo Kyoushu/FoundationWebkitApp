@@ -1,0 +1,5 @@
+/node_modules/*
+/app.nw/components/*
+/builds/*
+/.idea
+/app.nw/css/app.css

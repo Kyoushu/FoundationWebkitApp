@@ -1,0 +1,11 @@
+{
+    "name": "foundation-app",
+    "version": "0.0.1",
+    "main": "index.html",
+    "window": {
+        "frame": true,
+        "toolbar": false,
+        "fullscreen": false,
+        "always-on-top": false
+    }
+}
