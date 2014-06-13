@@ -9,13 +9,13 @@ A template for building native Windows apps with Foundation 5.
     npm install && bower install
     grunt
 
-Open app.nw/index.html to start working on your app. When you're ready to build an .exe, run the following.
+Open "app.nw/index.html" to start working on your app. When you're ready to build, run the following.
 
     grunt build
 
-The app will be saved to builds/releases.
+The app will be saved to "builds/releases".
 
-## Testing Linux Builds Under Ubuntu 14.04
+## Testing 32bit Builds Under Ubuntu 14.04
 
 Run the following command to fix the libudev shared library issue.
 
